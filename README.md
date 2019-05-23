@@ -1,5 +1,8 @@
 # YoudaoTranslate
 破解有道翻译(最新加密破解)
+细节:::
+
+
 请求头必须带上cookie,user-agent,refer 三者缺一不可
 有道翻译接口数据加密字段有三个
 ts ,salt,sign
